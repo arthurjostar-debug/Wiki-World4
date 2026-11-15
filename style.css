@@ -1,5 +1,9 @@
+@font-face{
+  font-family: "Pixel Digivolve Italic.otf";
+  src: url('Pixel Digivolve Italic.otf');}
+
 body{
-  background-color: yellow;}
+  background-color: hwb(247 0% 53% / 0.8627450980392157);}
 
 #Saudaçôes{
   font-size: 40px;
